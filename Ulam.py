@@ -96,5 +96,5 @@ class Ulam(object):
 		plt.imshow(self.spiral, cmap = cm.Greys_r)
 		plt.show()
 
-a = Ulam(size=1000)
+a = Ulam(size=50)
 a.show()
