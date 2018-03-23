@@ -11,9 +11,9 @@
 
 
 #Set peramters to log into my personal thermostat
-# USERNAME = 'zachary.swarth@gmail.com'
-# PASSWORD = 'Zachary1'
-# DEVICE_ID = 699427
+# USERNAME = 'xxx'
+# PASSWORD = 'xxx'
+# DEVICE_ID = xxx
 
 # AUTH="https://mytotalconnectcomfort.com/portal"
 
